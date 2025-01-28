@@ -6,6 +6,6 @@
   - 📧 ruan.d.jansen@gmail.com
   - 🔗 https://www.linkedin.com/in/ruan-jansen-ab3651219/
   - 💼 www.github.com/GlucodeRuan
-- 📱 The list of shipped projects I have worked on...
+- 📱 Here are some of projects I have worked on...
   - 🏃🏼 Vitality UK Member app - https://apps.apple.com/gb/app/vitality-uk/id794024908
   - 🧢 RE:Style - https://apps.apple.com/gb/app/re-style/id6449602105
